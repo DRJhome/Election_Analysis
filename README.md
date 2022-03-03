@@ -3,11 +3,11 @@
 The purpose of this audit was to add in some missing data points from the first audit. The results for voter turnout per county, the percentage of votes from each county, and the county with the highest turnout have been added to the audit.
 
 ## Results from Audit:
-•	Total Votes: 369,711
-•	County Votes:
-o	Jefferson: 10.5% (38,855)
-o	Denver: 82.8% (306,055)
-o	Arapahoe: 6.7% (24,801)
+### Total Votes: 369,711
+#### County Votes:
+* Jefferson: 10.5% (38,855)
+* Denver: 82.8% (306,055)
+* Arapahoe: 6.7% (24,801)
 •	Denver County had the largest number of votes
 •	Votes and Percentage per Candidate
 o	Charles Casper Stockham: 23.0% (85,213)
